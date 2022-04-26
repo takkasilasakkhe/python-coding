@@ -1,0 +1,36 @@
+
+
+<record>
+        <busstopname>name1</busstopname>
+		<busnumber>5428</busnumber>
+		<driver>hritik</driver>
+		<gender>male</gender>
+		<conductor>myank</conductor>
+		<age>36</age
+		<mobile>9586</mobile>
+		<address>plvd</address>
+		<route>pdtr</route>
+		<passengrs>30</passengers>
+</record>
+<record>		
+        <busstopname>name2</busstopname>
+		<busnumber>2569</busnumber>
+		<driver>roshan</driver>
+		<gender>male</gender>
+		<conductor>geeth</conductor>
+		<age>50</age
+		<mobile>9586</mobile>
+		<address>pdtr</address>
+		<route>kdp</route>
+		<passengrs>35</passengers>
+</record>
+       <busstopname>name3</busstopname>
+		<busnumber>8888</busnumber>
+		<driver>dheer</driver>
+		<gender>male</gender>
+		<conductor>sree</conductor>
+		<age>44</age
+		<mobile>9922</mobile>
+		<address>pdtr</address>
+		<route>plvd</route>
+		<passengrs>35</passengers>

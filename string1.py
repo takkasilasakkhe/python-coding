@@ -1,0 +1,20 @@
+channelname="suresh techs channel"
+print(channelname)
+#indexing
+print(channelname[0])
+print(channelname[6])
+print(channelname[9])
+print(channelname[-1])
+print(channelname[-3])
+#slicing
+print(channelname[1:4])
+print(channelname[5:10])
+print(channelname[5:10:2])
+print(channelname[:4])
+print(channelname[:])
+print(channelname[4:])
+print(channelname[:-6])
+print(channelname[:9])
+print(channelname[0:7])
+print(channelname[-1:-5])
+print(channelname[-6:-3])

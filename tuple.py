@@ -1,0 +1,31 @@
+'''marks=(20,50,80,97,67)
+print(type(marks))
+print(marks)
+tuple=("nandu","raj","ramu","rani")
+print(type(tuple))
+marks=(20,50,80,97,67,tuple)
+print(marks)
+print(marks[1])
+print(marks[2])
+print(marks[5][2])
+print(marks[1:7])
+print(marks[-1])
+print(marks[5][-2])'''
+'''marks=[20,30,40,50,80]
+for x in marks:
+   print(x)
+tuple=("nandu","raj","ramu","ran",marks)
+tuple[4][1]="hai"
+print(tuple)
+tuple.count("raj")
+print(tuple)'''
+marks=[20,20,20,30,60,50,88]
+print(marks)
+x=marks.count(88)
+print(x)
+x=marks.count(20)
+print(x)
+x=marks.index(20)
+print(x)
+x=marks.index(88)
+print(x)
